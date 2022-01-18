@@ -31,6 +31,7 @@ Building a model to predict whether a customer would be interested in Vehicle In
    <img src="plots/chanel.png">
 </p>
 
+<div>
 <p align="center">
    <img src="plots/gender.png">
 </p>
@@ -38,7 +39,9 @@ Building a model to predict whether a customer would be interested in Vehicle In
 <p align="center">
    <img src="plots/Driving_License.png">
 </p>
+</div>
 
+<div>
 <p align="center">
    <img src="plots/Previously_Insured.png">
 </p>
@@ -46,10 +49,11 @@ Building a model to predict whether a customer would be interested in Vehicle In
 <p align="center">
    <img src="plots/Vehicle_Age.png">
 </p>
+</div>
 
 ## Results
 
 <p align="center">
-   <img src="plots/roc.png">
+   <img src="plots/ROC.png">
 </p>
 
