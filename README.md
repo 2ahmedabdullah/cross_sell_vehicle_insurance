@@ -1,4 +1,4 @@
-## cross_sell_vehicle_insurance
+## Cross Sell Vehicle Insurance
 
 An Insurance company has provided Health Insurance to its customers now they need to build a model to predict whether the policyholders (customers) from past year will also be interested in Vehicle Insurance provided by the company.
 
@@ -9,4 +9,50 @@ Just like medical insurance, there is vehicle insurance where every year custome
 Building a model to predict whether a customer would be interested in Vehicle Insurance is extremely helpful for the company because it can then accordingly plan its communication strategy to reach out to those customers and optimise its business model and revenue.
 
 
+## Data Visualization
+
+<p align="center">
+   <img src="plots/class_wise_distribution.png">
+</p>
+
+<p align="center">
+   <img src="plots/Age.png">
+</p>
+
+<p align="center">
+   <img src="plots/prem.png">
+</p>
+
+<p align="center">
+   <img src="plots/gender.png">
+</p>
+
+<p align="center">
+   <img src="plots/Driving_License.png">
+</p>
+
+<p align="center">
+   <img src="plots/chanel.png">
+</p>
+
+<p align="center">
+   <img src="plots/Previously_Insured.png">
+</p>
+
+<p align="center">
+   <img src="plots/Vehicle_Age.png">
+</p>
+
+<p align="center">
+   <img src="plots/Vehicle_Age.png">
+</p>
+
+
+<p align="center">
+   <img src="plots/Vehicle_Damage.png">
+</p>
+
+<p align="center">
+   <img src="plots/Vintage.png">
+</p>
 
