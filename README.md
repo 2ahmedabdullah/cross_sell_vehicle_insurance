@@ -31,24 +31,22 @@ Building a model to predict whether a customer would be interested in Vehicle In
    <img src="plots/chanel.png">
 </p>
 
-<div>
-<p align="center">
-   <img src="plots/gender.png">
-</p>
+<div class="row">
+   <div class="column">
+     <p align="center"><img src="plots/gender.png"></p>
+   </div>
+   <div class="column">
+     <p align="center"><img src="plots/Driving_License.png"></p>
+   </div>
+</div>   
 
-<p align="center">
-   <img src="plots/Driving_License.png">
-</p>
-</div>
-
-<div>
-<p align="center">
-   <img src="plots/Previously_Insured.png">
-</p>
-
-<p align="center">
-   <img src="plots/Vehicle_Age.png">
-</p>
+<div class="row">
+   <div class="column">
+      <p align="center"><img src="plots/Previously_Insured.png"></p>
+   </div>   
+   <div class="column">
+      <p align="center"><img src="plots/Vehicle_Age.png"></p>
+   </div>
 </div>
 
 ## Results
