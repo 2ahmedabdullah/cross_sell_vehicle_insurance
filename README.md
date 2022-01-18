@@ -24,15 +24,19 @@ Building a model to predict whether a customer would be interested in Vehicle In
 </p>
 
 <p align="center">
+   <img src="plots/vintage.png">
+</p>
+
+<p align="center">
+   <img src="plots/chanel.png">
+</p>
+
+<p align="center">
    <img src="plots/gender.png">
 </p>
 
 <p align="center">
    <img src="plots/Driving_License.png">
-</p>
-
-<p align="center">
-   <img src="plots/chanel.png">
 </p>
 
 <p align="center">
@@ -43,12 +47,5 @@ Building a model to predict whether a customer would be interested in Vehicle In
    <img src="plots/Vehicle_Age.png">
 </p>
 
-<p align="center">
-   <img src="plots/Vehicle_Age.png">
-</p>
 
-
-<p align="center">
-   <img src="plots/vintage.png">
-</p>
 
