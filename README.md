@@ -32,7 +32,7 @@ Building a model to predict whether a customer would be interested in Vehicle In
 </p>
 
 
-<p><img src="plots/gender.png"><img src="plots/Driving_License.png"></p>
+<p align="center"><img src="plots/gender.png"><img src="plots/Driving_License.png"></p>
 
 <p align="center"><img src="plots/Previously_Insured.png"><img src="plots/Vehicle_Age.png"></p>
 
