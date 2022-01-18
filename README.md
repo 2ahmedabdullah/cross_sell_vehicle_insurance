@@ -49,10 +49,6 @@ Building a model to predict whether a customer would be interested in Vehicle In
 
 
 <p align="center">
-   <img src="plots/Vehicle_Damage.png">
-</p>
-
-<p align="center">
-   <img src="plots/Vintage.png">
+   <img src="plots/vintage.png">
 </p>
 
