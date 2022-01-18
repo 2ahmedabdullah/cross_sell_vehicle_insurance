@@ -47,5 +47,9 @@ Building a model to predict whether a customer would be interested in Vehicle In
    <img src="plots/Vehicle_Age.png">
 </p>
 
+## Results
 
+<p align="center">
+   <img src="plots/roc.png">
+</p>
 
