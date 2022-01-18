@@ -8,6 +8,11 @@ Just like medical insurance, there is vehicle insurance where every year custome
 
 Building a model to predict whether a customer would be interested in Vehicle Insurance is extremely helpful for the company because it can then accordingly plan its communication strategy to reach out to those customers and optimise its business model and revenue.
 
+## Dataset Source
+Kaggle
+
+## Strategy
+Its a classification problem. I have used 4 different models to achieve a AUC Score of 0.86.
 
 ## Data Visualization
 
@@ -43,3 +48,4 @@ Building a model to predict whether a customer would be interested in Vehicle In
    <img src="plots/ROC.png">
 </p>
 
+XGboost has outperformed other ML models.
