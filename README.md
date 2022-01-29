@@ -2,6 +2,8 @@
 
 An Insurance company has provided Health Insurance to its customers now they need to build a model to predict whether the policyholders (customers) from past year will also be interested in Vehicle Insurance provided by the company.
 
+![1](img/2.png)
+
 An insurance policy is an arrangement by which a company undertakes to provide a guarantee of compensation for specified loss, damage, illness, or death in return for the payment of a specified premium. A premium is a sum of money that the customer needs to pay regularly to an insurance company for this guarantee.
 
 Just like medical insurance, there is vehicle insurance where every year customer needs to pay a premium of certain amount to insurance provider company so that in case of unfortunate accident by the vehicle, the insurance provider company will provide a compensation (called ‘sum assured’) to the customer.
